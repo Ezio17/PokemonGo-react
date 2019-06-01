@@ -1,6 +1,6 @@
 {
   "name": "pokemon-go-react",
-  "homepage": "https://ezio17.github.io/PokemonGo-react/",
+  "homepage": "https://ezio17.github.io/PokemonGo-react/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

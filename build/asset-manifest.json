@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PokemonGo-react/static/css/main.002f3a29.chunk.css",
-    "main.js": "/PokemonGo-react/static/js/main.3ea4f0f5.chunk.js",
-    "main.js.map": "/PokemonGo-react/static/js/main.3ea4f0f5.chunk.js.map",
-    "runtime~main.js": "/PokemonGo-react/static/js/runtime~main.c5cee679.js",
-    "runtime~main.js.map": "/PokemonGo-react/static/js/runtime~main.c5cee679.js.map",
-    "static/js/2.379e95c4.chunk.js": "/PokemonGo-react/static/js/2.379e95c4.chunk.js",
-    "static/js/2.379e95c4.chunk.js.map": "/PokemonGo-react/static/js/2.379e95c4.chunk.js.map",
-    "index.html": "/PokemonGo-react/index.html",
-    "precache-manifest.0b0a67817bb534be6f66f75ea60ed353.js": "/PokemonGo-react/precache-manifest.0b0a67817bb534be6f66f75ea60ed353.js",
-    "service-worker.js": "/PokemonGo-react/service-worker.js",
-    "static/css/main.002f3a29.chunk.css.map": "/PokemonGo-react/static/css/main.002f3a29.chunk.css.map"
+    "main.css": "/PokemonGo-react/build/static/css/main.002f3a29.chunk.css",
+    "main.js": "/PokemonGo-react/build/static/js/main.75780309.chunk.js",
+    "main.js.map": "/PokemonGo-react/build/static/js/main.75780309.chunk.js.map",
+    "runtime~main.js": "/PokemonGo-react/build/static/js/runtime~main.b7da6dda.js",
+    "runtime~main.js.map": "/PokemonGo-react/build/static/js/runtime~main.b7da6dda.js.map",
+    "static/js/2.379e95c4.chunk.js": "/PokemonGo-react/build/static/js/2.379e95c4.chunk.js",
+    "static/js/2.379e95c4.chunk.js.map": "/PokemonGo-react/build/static/js/2.379e95c4.chunk.js.map",
+    "index.html": "/PokemonGo-react/build/index.html",
+    "precache-manifest.53058fb7586606d9c8a705b767ee14c6.js": "/PokemonGo-react/build/precache-manifest.53058fb7586606d9c8a705b767ee14c6.js",
+    "service-worker.js": "/PokemonGo-react/build/service-worker.js",
+    "static/css/main.002f3a29.chunk.css.map": "/PokemonGo-react/build/static/css/main.002f3a29.chunk.css.map"
   }
 }
