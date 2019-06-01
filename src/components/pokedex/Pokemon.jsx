@@ -31,7 +31,7 @@ const Pokemon = props => {
                 {window.innerWidth < 500 ? (
                   <a className="pokedex__scroll" href="#pokedex-info">
                     <img
-                      src={`http://play.pokemonshowdown.com/sprites/xyani/${pokemon.name ||
+                      src={`https://play.pokemonshowdown.com/sprites/xyani/${pokemon.name ||
                         pokemon.pokemon.name}.gif`}
                       alt={pokemon.name || pokemon.pokemon.name}
                       className="pokedex__pokemons-image"
@@ -43,7 +43,7 @@ const Pokemon = props => {
                 ) : (
                   <>
                     <img
-                      src={`http://play.pokemonshowdown.com/sprites/xyani/${pokemon.name ||
+                      src={`https://play.pokemonshowdown.com/sprites/xyani/${pokemon.name ||
                         pokemon.pokemon.name}.gif`}
                       alt={pokemon.name || pokemon.pokemon.name}
                       className="pokedex__pokemons-image"

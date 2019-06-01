@@ -1,6 +1,6 @@
-export const BASE_URL = 'http://pokeapi.co/api/v2/pokemon/';
+export const BASE_URL = 'https://pokeapi.co/api/v2/pokemon/';
 
-export const BASE_URL_TYPE = 'http://pokeapi.co/api/v2/';
+export const BASE_URL_TYPE = 'https://pokeapi.co/api/v2/';
 
 export const selected = [
   {
