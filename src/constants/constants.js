@@ -79,5 +79,4 @@ export const selected = [
     value: '18',
     name: 'fairy',
   },
-  { value: '10001', name: 'hi' },
 ];
